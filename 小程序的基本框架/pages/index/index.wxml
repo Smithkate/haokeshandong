@@ -1,0 +1,23 @@
+<!--pages/index/index.wxml-->
+<view class="box">
+     <swiper autoplay="true" interval="2000" indicator-dots circular='' 
+     style="width: 800rpx; height: 500rpx; display: block; box-sizing: border-box; left: NaNrpx; top: NaNrpx">
+     <swiper-item  style="width: 513rpx; height: 551rpx; display: block; box-sizing: content-box; left: 0rpx; top: 0rpx"><image mode="widthFix" src="/images/好客山东.png"  style="width: 740rpx; height: 443rpx; display: contents; box-sizing: content-box; left: NaNrpx; top: NaNrpx"></image></swiper-item>
+     <swiper-item><image mode="widthFix" src="/images/泰山.png"  style="width: 749rpx; height: 448rpx; display: contents; box-sizing: content-box; left: NaNrpx; top: NaNrpx"></image></swiper-item>
+     <swiper-item ><image mode="widthFix" src="/images/泉城.png" style="width: 722rpx; height: 443rpx; display: contents; box-sizing: content-box; left: NaNrpx; top: NaNrpx"></image></swiper-item>
+     <swiper-item><image mode="widthFix" src="/images/孔庙.png" style="width: 424rpx; height: 252rpx; display: contents; box-sizing: content-box; left: NaNrpx; top: NaNrpx"></image></swiper-item>
+     <swiper-item ><image mode="widthFix" src="/images/威海.png" style="width: 754rpx; height: 439rpx; display: contents; box-sizing: content-box; left: NaNrpx; top: NaNrpx"></image></swiper-item>
+     </swiper>
+     
+</view>
+<view class="title">好客山东欢迎您</view>
+<view class="bg1">
+     <view class="mian">
+     <view class="text">山东省（Shandong）是中国华东地区的一个沿海省份，简称鲁，省会济南。位于中国东部沿海北纬34°22.9′-38°24.01′，东经114°47.5′-122°42.3′之间，自北而南与河北、河南、安徽、江苏4省接壤。</view>
+     <view class="text">山东中部山地突起，西南、西北低洼平坦，东部缓丘起伏，地形以山地丘陵为主，东部是山东半岛，西部及北部属华北平原，中南部为山地丘陵，形成以山地丘陵为骨架，平原盆地交错环列其间的地貌，类型包括山地、丘陵、台地、盆地、平原、湖泊等多种类型；地跨淮河、黄河、海河、小清河和胶东五大水系；属暖温带季风气候。</view> 
+     <view class="text">截至2020年6月，山东省辖16个地级市，共58个市辖区、26个县级市、52个县，合计136个县级行政区。664个街道、1092个镇、68个乡，合计1824个乡级行政区。</view>
+     <view class="text">梁育桐 201923010114</view>
+     <view class="text">移动互联网YYDS</view>
+     <image src="/images/ditu.png" style="width: 654rpx; height: 356rpx; display: inline-block; box-sizing: border-box; left: NaNrpx; top: NaNrpx"></image>
+     </view>
+</view>

@@ -1,0 +1,51 @@
+/* pages/quancheng/quancheneg.wxss */
+.bg3{
+     margin: 20rpx;
+     padding: 20rpx;
+     border: 5px solid #eef106;
+     width: auto;
+     height: auto;
+     background-color: rgba(2, 207, 243, 0.521);
+}
+.text{
+     text-align: left;
+     text-indent: 35px;
+     font-family: "方正舒体";
+     line-height: 30px;
+     word-spacing: 15px;
+}
+.text1{
+     text-align: center;
+     font-size: 30px;
+     color: red;
+     font-family: "隶书";
+}
+.text2{
+     text-align: center;
+     font-size: 10px;
+     font-family: "宋体";
+}
+.navigator{
+     margin: 5px;
+     font-size: 30px;
+}
+.waikuang{
+     display: flex;
+     flex-direction: row;
+     margin: 5px 0px;
+     padding: 5px 0px;
+}
+.myleft{
+     margin-right: 10px;
+     font-size: 20px;
+}
+.mycenter{
+     flex: 1;
+     font-size: 20px;
+     color: rgb(14, 17, 211);
+}
+.myright{
+     width: 40rpx;
+     height: 40rpx;
+     margin-top: 5px;
+}

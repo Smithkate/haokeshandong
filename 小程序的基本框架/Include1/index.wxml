@@ -1,0 +1,4 @@
+<!--Include1/index.wxml-->
+<view class="box">
+    <image src="/images/泉城线路.png" style="width: 756rpx; height: 1468rpx; display: inline-block; box-sizing: border-box; left: NaNrpx; top: NaNrpx"></image>
+</view>

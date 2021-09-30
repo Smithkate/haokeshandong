@@ -1,0 +1,27 @@
+<!--pages/jiaxiang/jiaxiang.wxml-->
+<view class="box">
+     <swiper autoplay="true" interval="2000" indicator-dots circular='' 
+     style="width: 800rpx; height: 500rpx; display: block; box-sizing: border-box; left: NaNrpx; top: NaNrpx">
+     <swiper-item><image mode="widthFix" src="/images/10.png"  style="width: 749rpx; height: 448rpx; display: contents; box-sizing: content-box; left: NaNrpx; top: NaNrpx"></image></swiper-item>
+     <swiper-item ><image mode="widthFix" src="/images/11.png" style="width: 722rpx; height: 443rpx; display: contents; box-sizing: content-box; left: NaNrpx; top: NaNrpx"></image></swiper-item>
+     <swiper-item><image mode="widthFix" src="/images/12.png" style="width: 424rpx; height: 252rpx; display: contents; box-sizing: content-box; left: NaNrpx; top: NaNrpx"></image></swiper-item>
+     <swiper-item><image mode="widthFix" src="/images/13.png" style="width: 424rpx; height: 252rpx; display: contents; box-sizing: content-box; left: NaNrpx; top: NaNrpx"></image></swiper-item>
+     </swiper>
+ </view>    
+ <view class="bg5">
+ <view class="text1">威海</view>
+ <view class="text2">梁育桐 201923010114</view>
+ <view class="text">威海，山东省地级市，国务院批复确定的中国山东半岛的区域中心城市、重要的海洋产业基地和滨海旅游城市。全市下辖2个区、代管2个县级市，总面积5799.84平方千米，建成区面积291.09平方千米。根据第七次人口普查数据，截至2020年11月1日零时，威海市常住人口为2906548人。</view>
+ <view class="text">威海位于中国华东地区、山东半岛东端，北、东、南三面滨临黄海，北与辽东半岛相对，东与朝鲜半岛隔海相望，西与山东烟台接壤。东西最大横距135千米，南北最大纵距81千米，海岸线长985.9千米。威海取威震海疆之意，别名威海卫。威海是中国大陆距离韩国首尔最近的城市、中国近代第一支海军北洋海军的发源地、甲午海战的发生地，甲午战争后被列强侵占并回归祖国的“七子”之一。</view>
+ <view class="text">1984年威海成为第一批中国沿海开放城市。1990年被评为中国第一个国家卫生城市。2016年被国务院列为第一批国家新型城镇化综合试点地区。2020年，全市生产总值3017.79亿元。</view>
+ <view class="text">2015年入选第四届全国文明城市，2017年和2020年分别入选第五届、第六届全国文明城市，并实现文明城市创建全域“一片红”。入选为第五届全国文明城市。2018年1月入选首批社会信用体系建设示范城市。2017年中国地级市全面小康指数排名第24。 2018年10月，威海获评健康中国年度标志城市。2018年重新确认国家卫生城市（区）。2019年山东省新型智慧城市建设试点城市。2020年10月20日，被评为全国双拥模范城（县）。</view>
+ <view class="text"></view>
+ <image src="/images/家乡线路.png"  style="width: 654rpx; height: 482rpx; display: inline-block; box-sizing: border-box; left: NaNrpx; top: NaNrpx"></image>
+ </view>
+ <navigator url="/Include3/index">
+    <view class="waikuang">
+        <icon type="success" class="myleft"></icon>
+        <view class="mycenter">威海风景名胜区游览图</view>
+        <image src="/images/下一页.png" class="myright" style="width: 66rpx; height: 48rpx; display: block; box-sizing: border-box; left: NaNrpx; top: NaNrpx"></image>
+    </view>
+</navigator>

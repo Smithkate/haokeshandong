@@ -1,0 +1,22 @@
+<!--pages/sankong/sankong.wxml-->
+<view class="box">
+     <swiper autoplay="true" interval="2000" indicator-dots circular='' 
+     style="width: 800rpx; height: 500rpx; display: block; box-sizing: border-box; left: NaNrpx; top: NaNrpx">
+     <swiper-item><image mode="widthFix" src="/images/7.png"  style="width: 749rpx; height: 448rpx; display: contents; box-sizing: content-box; left: NaNrpx; top: NaNrpx"></image></swiper-item>
+     <swiper-item ><image mode="widthFix" src="/images/8.png" style="width: 722rpx; height: 443rpx; display: contents; box-sizing: content-box; left: NaNrpx; top: NaNrpx"></image></swiper-item>
+     <swiper-item><image mode="widthFix" src="/images/9.png" style="width: 424rpx; height: 252rpx; display: contents; box-sizing: content-box; left: NaNrpx; top: NaNrpx"></image></swiper-item>
+     </swiper>
+ </view>    
+ <view class="bg4">
+ <view class="text1">三孔</view>
+ <view class="text2">梁育桐 201923010114</view>
+ <view class="text">山东济宁曲阜的孔府、孔庙、孔林，统称曲阜“三孔”，是中国历代纪念孔子，是历代儒客朝拜之圣地，推崇儒学的表征，以丰厚的文化积淀、悠久历史、宏大规模、丰富文物珍藏，以及科学艺术价值而著称。</view>
+ <view class="text">山东济宁曲阜是孔子的故乡。孔夫子生前在此开坛授学，创立儒家文化，为此后2000多年的中国历史深深地打上了儒学烙印。以孔子为代表的儒家文化，按照自己的理想塑造了整个中国的思想、政治和社会体系，成为整个中国文化的基石。1994年孔庙、孔林、孔府被联合国列入《世界遗产名录》。</view>
+ </view>
+ <navigator url="/Include2/index">
+    <view class="waikuang">
+        <icon type="success" class="myleft"></icon>
+        <view class="mycenter">三孔风景名胜区游览图</view>
+        <image src="/images/下一页-1.png" class="myright" style="width: 66rpx; height: 48rpx; display: block; box-sizing: border-box; left: NaNrpx; top: NaNrpx"></image>
+    </view>
+</navigator>

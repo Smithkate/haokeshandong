@@ -1,0 +1,23 @@
+/* Include3/index.wxss */
+.title{
+     color: red;
+     text-align: center;
+     font-size: 25px;
+     font-style: italic;
+     font-family: "方正舒体";
+}
+.bg{
+     margin: 20rpx;
+     padding: 20rpx;
+     border: 5px solid #067ff1;
+     width: auto;
+     height: auto;
+     background-color: rgba(2, 207, 243, 0.349);
+}
+.text{
+     text-align: left;
+     text-indent: 35px;
+     font-family: "方正舒体";
+     line-height: 30px;
+     word-spacing: 15px;
+}

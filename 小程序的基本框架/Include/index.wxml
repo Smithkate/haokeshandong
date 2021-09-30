@@ -1,0 +1,4 @@
+<!--Include/index.wxml-->
+<view class="box">
+     <image src="/images/泰山线路.png" style="width: 747rpx; height: 1366rpx; display: inline-block; box-sizing: border-box; left: NaNrpx; top: NaNrpx"></image>
+</view>
